@@ -69,6 +69,6 @@ I'm a proactive, curious, and highly motivated developer who loves learning new 
 I'm currently 18.
 Passionate about the things I enjoy, like traveling and learning new languages. I'm actually learning Japanese at the moment at private classes and slowly getting into Brazilian with Duolingo, 400+ day streak 🔥🔥
 
-I also like anime (who would've guessed), and just to name a few favourites, Fate, Bakenomogatari, Toaru would definitely be up there. I enjoy reading manga as well tho I've found myself with little to no time for that recently which is a shame.
+I also like anime (who would've guessed), and just to name a few favourites, Fate, Mogatari and Toaru would definitely be up there. I enjoy reading manga as well tho I've found myself with little to no time for that recently which is a shame.
 
 ---
