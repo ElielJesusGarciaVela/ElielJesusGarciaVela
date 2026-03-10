@@ -19,7 +19,7 @@ DAM student 🖥
 
 # 🈯 Languages
 
-<table>
+<table align="center">
 <tr>
 
 <td width="25%">
@@ -69,7 +69,7 @@ DAM student 🖥
 
 # 🛠 IDEs & Tools
 
-<table>
+<table align="center">
 <tr>
 
 <td width="16.66%">
@@ -139,7 +139,7 @@ DAM student 🖥
 
 # 💡 Learning
 
-<table>
+<table align="center">
 <tr>
 
 <td width="20%">
@@ -199,7 +199,7 @@ DAM student 🖥
 
 # 🚀 Featured Projects
 
-<table>
+<table align="center">
 <tr>
 
 <td width="25%">
