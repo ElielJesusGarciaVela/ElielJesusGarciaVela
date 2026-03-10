@@ -275,9 +275,7 @@ Coming Soon...
 
 # 📩 Contact me
 
-<p align="center">
-  <big><big><big><b>📧 elieljgarciavela@gmail.com</b></big></big></big>
-</p>
+<h3 align="center">📧 elieljgarciavela@gmail.com</h3>
 
 
 <table align="center">
