@@ -275,9 +275,10 @@ Coming Soon...
 
 # 📩 Contact me
 
-<p align="center" style="font-size: 24px; font-weight: bold;">
-📧 elieljgarciavela@gmail.com
+<p align="center">
+  <big><big><big><b>📧 elieljgarciavela@gmail.com</b></big></big></big>
 </p>
+
 
 <table align="center">
 <tr>
