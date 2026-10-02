@@ -312,5 +312,5 @@ Coming Soon...
 <hr style="border: 0; height: 2px; background: linear-gradient(90deg, transparent, #8B0000, #8B0000, #8B0000, transparent);">
 
 <p align="center">
-<img src="[https://raw.githubusercontent.com/ElielJesusGarciaVela/TheSilly/main/SparxiePlsINeedThis-ezgif.com-video-to-gif-converter.gif](https://github.com/ElielJesusGarciaVela/TheSilly/blob/0172478e3310b92023315cf096c296734ada6db1/ihiredsparkleplush.png)" height="400" width="2000"/>
+<img src="https://github.com/ElielJesusGarciaVela/TheSilly/blob/main/ihiredsparkleplush.png?raw=true" height="400" width="2000"/>
 </p>
